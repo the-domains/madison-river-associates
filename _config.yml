@@ -1,0 +1,28 @@
+name: Madison River Associates
+favicon: null
+layout_spectrum: 0.03434667200781405
+typography_spectrum: 0.3651604454498738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5431974760722369
+  lightness: 0.6733200538437814
+  saturation: 0.5327692558057606
+  rhythmicContrast: 0.32255472079850733
+purpose: []
